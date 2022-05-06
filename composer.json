@@ -1,0 +1,9 @@
+{
+    "name": "prueba_poo/post",
+    "description": "Proyecto de prueba poo",
+    "autoload": {
+        "psr-4": {
+            "Blog\\": "src/"
+        }
+    }
+}
